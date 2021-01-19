@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+xgboost
+scikit-learn
+matplotlib
+keras
+tensorflow
+protobuf
+np_utils
+wordcloud
